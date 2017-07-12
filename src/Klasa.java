@@ -2,7 +2,7 @@
 public class Klasa {
     private int a;
 
-    public int getA() {
+    public int wezA() {
         return a;
     }
 
