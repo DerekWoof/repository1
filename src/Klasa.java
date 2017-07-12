@@ -3,6 +3,7 @@ public class Klasa {
     private int a;
 
     public int wezA() {
+    public int pobierzA() {
         return a;
     }
 
